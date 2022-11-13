@@ -5,5 +5,4 @@ seaborn==0.11.2
 tensorflow==2.9.1
 sklearn==0.0
 ipywidgets==7.6.3
-IPython==0.0 
 nltk==3.7
