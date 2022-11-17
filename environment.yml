@@ -1,4 +1,0 @@
-dependencies:
-  - pip==22.0.4
-  - pip: 
-    - voila==0.3.6
