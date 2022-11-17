@@ -6,4 +6,4 @@ tensorflow==2.9.1
 sklearn==0.0
 ipywidgets==8.0.2
 nltk==3.7
-voila==0.0
+voila==0.2.10
